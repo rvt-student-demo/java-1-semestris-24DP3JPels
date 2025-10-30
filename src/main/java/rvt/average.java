@@ -24,3 +24,4 @@ public class average {
     }
     
 }
+// ALT + SHIFT + F = izlidzina visu tava vieta
