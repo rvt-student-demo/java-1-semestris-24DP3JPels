@@ -42,12 +42,8 @@ import java.util.Scanner;
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        
-        
         Statistics allNumbers = new Statistics();
-        
         Statistics evenNumbers = new Statistics();
-        
         Statistics oddNumbers = new Statistics();
 
         System.out.println("Ievadi Ciparus: :");
