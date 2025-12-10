@@ -94,4 +94,26 @@ String first = "Red " ;
 String last  = "Rose" ;
 String name  = first + last ;
 }
+
+public static void ex8(){
+String stringA = "Alphabet " ;
+String stringB = "Soup" ;
+String stringC = stringA + stringB;
+
+System.out.println( stringC.length() ) ;
+//An empty string has length zero. The length() method of a String returns its length:
+
+//public int length(); 
+//The method takes no parameters, but the () is needed when it is used.
+
+
+
+
 }
+
+
+public static void ex9(){
+
+}
+}
+
